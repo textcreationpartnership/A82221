@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings of His Highnesse the Prince of Wales, and the Marquis of Newcaslte, concerning their comming from Callice to Dunkirk and from thence to Barwick in the North of England, with an Army, for the defence and preservation of the Kings Majesties Royall Person, and to joyn with Sir Marmaduke Langdale. Likewise, His Hignesse speech at Paris in France, before his departure from the nunneries, and the Duke of York's comming from Zealand to Campheer, and from Campheer to Goring; His Highnesse to be Lord High-Admirall of the revolted ships, and the Lord Willoughby of Parham Vice-Admirall. Sent in a letter from Burlington-Key in Yorkshire, Iune 29. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82221</idno>
+            <idno type="STC">Wing D747</idno>
+            <idno type="STC">Thomason E450_6</idno>
+            <idno type="EEBO-CITATION">99864560</idno>
+            <idno type="PROQUEST">99864560</idno>
+            <idno type="VID">161895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161895)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E450[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings of His Highnesse the Prince of Wales, and the Marquis of Newcaslte, concerning their comming from Callice to Dunkirk and from thence to Barwick in the North of England, with an Army, for the defence and preservation of the Kings Majesties Royall Person, and to joyn with Sir Marmaduke Langdale. Likewise, His Hignesse speech at Paris in France, before his departure from the nunneries, and the Duke of York's comming from Zealand to Campheer, and from Campheer to Goring; His Highnesse to be Lord High-Admirall of the revolted ships, and the Lord Willoughby of Parham Vice-Admirall. Sent in a letter from Burlington-Key in Yorkshire, Iune 29. 1648.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the satisfaction of all his Majesties Loyall Subjects,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161895:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The proceedings of His Highneſſe the Prince of <hi>Wales,</hi> and the Marquis of <hi>Newcastle,</hi> concerning their comming from <hi>Callice</hi> to <hi>Dunkirk,</hi> and from thence to <hi>Barwick</hi> in the North of <hi>England,</hi> with an Army, for the defence and preſervation of the Kings Majeſties Royall Perſon, and to joyn with Sir <hi>Marmaduke Langdale.</hi>
+            </p>
+            <p>Likewiſe, His Highneſſes Speech at <hi>Paris</hi> in <hi>France,</hi> before his depar<g ref="char:EOLhyphen"/>ture from the Nunneries, And the Duke of <hi>York</hi>'s comming from <hi>Zealand</hi> to <hi>Campheer,</hi> and from <hi>Campheer</hi> to <hi>Goring;</hi> His Highneſſe to be Lord High-Admirall of the re<g ref="char:EOLhyphen"/>volted Ships, and the Lord <hi>Willoughby</hi> of <hi>Parham</hi> Vice-Admirall.</p>
+            <p>Sent in a Letter from <hi>Burlington-Key</hi> in Yorkſhire, Iune <hi>29. 1648.</hi>
+            </p>
+            <figure/>
+            <figure/>
+            <p>Printed for the generall ſatisfaction of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majeſties Loyall Subjects, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161895:2"/>
+            <pb n="1" facs="tcp:161895:2"/>
+            <head>A DECLARATION OF The proceedings of His Highneſſe the Prince of <hi>Wales,</hi> and the Marqueſſe of <hi>Newcastle,</hi> concerning their landing in the North of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>VPon Sunday laſt being the 25. of this inſtant June, a Dutch-man ſtruck into this Harbour, and the Maſter comming aſhore, imparted ſe<g ref="char:EOLhyphen"/>verall things of great concernment touching this King<g ref="char:EOLhyphen"/>dome, carryed on by the Marquis of Newcaſtle, the Lord <hi>German,</hi> and divers others; and amongſt the reſt it was intimated, that there are divers Forces raiſed in the Kingdom of France, and in the Provinces of
+<pb n="2" facs="tcp:161895:3"/>Holland, Zealand, and other places, moſt of them being Engliſh, and that the Marqueſſe of Newcaſtle is ap<g ref="char:EOLhyphen"/>pointed Generall, and hath received Orders for their tranſportation into England.</p>
+            <p>He further intimated, that the Prince of Wales, and the reſt of the Engliſh Gallants hath taken their leave of the King of France, and are departed from the Court, with a reſolution to paſſe from Callis to Dunkirk, &amp; ſo with their new Army to Barwick in the North of England.</p>
+            <p>It is ſaid, that before the Princes departure from Pa<g ref="char:EOLhyphen"/>ris in France, his Highneſſe went to the grates of ſeve<g ref="char:EOLhyphen"/>rall Nunneries, and there gave the Nuns a viſit, where they appeared unveiled; and in the preſence of ſeve<g ref="char:EOLhyphen"/>rall Lords and Ladies of Honour, His Highneſſe de<g ref="char:EOLhyphen"/>clared, That for their many reſpects and favors vouch<g ref="char:EOLhyphen"/>ſafed to Him, ſince His comming into that Countrey, he were much obliged to them, and thanked them for their great reſpects to his Mother, the Queen of Great Brittain, with many other civill expreſſions; and ha<g ref="char:EOLhyphen"/>ving expreſſed himſelf in theſe, or the like words, took his leave, and departed.</p>
+            <p>Some report, that there are four Regiments raiſed in Holland, to joyne with the aforeſaid Army under the command of the Earl of Newcaſtle, and to be tranſ<g ref="char:EOLhyphen"/>ported over with them to joyn with Sir <hi>Marmaduke Langdale</hi> in the North.</p>
+            <p>It is further ſaid, that when the forraign forces are u<g ref="char:EOLhyphen"/>nited and joyned, they will amount to betwixt four or five thouſand; which report cauſeth a great feare and jealouſie amongſt the Inhabitants in theſe parts, being
+<pb n="3" facs="tcp:161895:3"/>ſenſible of the inhumane cruelty of Newcaſtle and his Adherents, greatly fearing, that they ſhall be left to the mercy of a forraign Enemy, if not timely prevent<g ref="char:EOLhyphen"/>ed by the great wiſdome and providence of the high and honourable Court of Parliament.</p>
+            <p>Wee alſo hear that the ſeven revolted ſhips (which lately revolted from the obedience of Parliament) are gone into Helfer ſluce in Holland, and another of the revolted ſhips (called the Flying Buck ſtruck into Brill, who meeting with a Parliament ſhip, boarded her, and turned out captain <hi>Nickſon,</hi> the captain thereof, and divers of the Mariners, and manned her with his own men; and the Captain of the Flying Bucke hath declared, That ſuch ſhips as he meets with that is not of his ſide, he will tye the men back to backe, and turne them into the Sea.</p>
+            <p>And about the 22. of this inſtant June, the Duke of York came from Zealand to Campheer, accompanied by the Lord <hi>Willoughby</hi> of <hi>Parham</hi> and divers other Engliſh Gallants; from Campheer they came to a place called Goring, where ſome of the revolted ſhips lay; and from thence he returned again to Campheer, with his Engliſh train.</p>
+            <p>We further hear, that the Duke is made High-Ad<g ref="char:EOLhyphen"/>mirall of the revolted Navy, and the Lord <hi>Willoughby</hi> of Parham Vice-Admirall, and that if his Highneſſe can obtain from the Prince of Orange Money and Am<g ref="char:EOLhyphen"/>munition, they intend for England; for the Captain of the Flying Buck doth ſpeak as if they intended for Yar<g ref="char:EOLhyphen"/>mouth. It is likewiſe reported, that above 100. of the Engliſh Royaliſts are gone into the revolted ſhips that ly at the Brill.</p>
+            <closer>
+               <dateline>
+                  <hi>Burlington-Key,</hi> 
+                  <date>26. <hi>Iune,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161895:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis morning a party of the Enemies ſallyed forth at the South gate, and approached neer our horſe Guard, but were quickly beaten back, and purſued by our party to the turn-pike, where they kept a Court of Guard, who upon our approach gave fire and fled away. So we entred this Guard, took ſuch arms as were left there. This Guard of theirs was kept neer the Almeſ-houſes, at the entrance of the Sub<g ref="char:EOLhyphen"/>urbs of the town: in this action three of the enemy were killed, and many wounded. We alſo took 12. priſo<g ref="char:EOLhyphen"/>ners, and 15 or 16 horſe with arms, two horſes of our were killed, and one man cut in the head, but the wound not mortall, nor any one of the reſt of our men recei<g ref="char:EOLhyphen"/>ving any hurt at all. Proviſions begin to grow ſcarce in the town, eſpecially bread, &amp; how they are provided with corn I know not, but I am certain they are ill pro<g ref="char:EOLhyphen"/>vided of mills to grind it if they have any. For this day we have fired and burnt down their Wind-mils to the ground, divers ſouldiers ſteal away from the enemy daily, and come into us, eſpecially ſince the Lord Ge<g ref="char:EOLhyphen"/>nerall ſent in a Letter, proferring conditions to ſuch as ſhould come to him, and unto all, if they would em<g ref="char:EOLhyphen"/>brace and yeeld up the town, which conditions were. 1. That within 24. hours after the receipt thereof, the officers laying down their armes, ſhould have paſſes to travell beyond Sea, &amp;c. 2. That the common ſouldi<g ref="char:EOLhyphen"/>ers, and all men of that rank, ſhall have liberty to de<g ref="char:EOLhyphen"/>part to their own homes, ſubmitting to the authority of Parliament. 3. That the Inhabitants of the towne ſhall be free from plunder and violence.</p>
+            <p>Theſe conditions not being accepted of, the Lord Generall is reſolved not to offer ſo good again to thoſe
+<pb facs="tcp:161895:4"/>which are the chief in action amongſt the Enemy. Our army is in a very good condition and full of reſoluti<g ref="char:EOLhyphen"/>on, and although the Gen. is very unwilling to ſtorme the town (for that as much as in him is, he would a<g ref="char:EOLhyphen"/>void the ſhedding of bloud.</p>
+            <p>Abot four of the clock this morning another party of the Enemies forces ſallyed out of the towne vpon the Suffolk forces on the North-Eaſt ſide, but Col. <hi>Whaley</hi> joyning with them, charged them, killed two, &amp; put the reſt to a diſorderly retreat, took ten priſoners, and ſome very good horſes. This Evening another par<g ref="char:EOLhyphen"/>ty of the Enemy attempted to go out on Harwich road, to fetch in proviſions, and were fallen upon by a par<g ref="char:EOLhyphen"/>ty of ours, which routed them and took divers priſo<g ref="char:EOLhyphen"/>ners, one of which that was wounded ſaith, that they begin to be exceedingly ſtraightned in the towne for proviſions, eſpecially for horſe meat: three of their Wind-mills are burnt downe, they have two Water<g ref="char:EOLunhyphen"/>mils which we are cutting off, and have ſcaling Lad<g ref="char:EOLhyphen"/>ders ready to ſtorme, but the Morter piece is not yet come up.</p>
+            <p>Yeſterday morning 3 troopers came out of the town with horſe and arms, and proffer'd their ſervice to the General, they report there are in the town about 600. horſe, and 3500. foot. and about 3 of the clock in the afternoon, Sir <hi>Charles Lucus</hi> drew out 8. companies of foot, and 4 troops of horſe, cloſe under their Workes, whereupon a party of ours were commanded out to charge them, and after ſome exchange of ſhot, our for<g ref="char:EOLhyphen"/>ces beat them in, ſet their Guard houſe on fire, killed two, and took ſome priſoners.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Leaguer before</hi> Colcheſter, <date>June 28. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:161895:5"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon the cloſe of this Letter, here hapned further action; A party of the Enemy returning from Tendring Hundred with much plundred proviſion, were intercepted by a conſiderable party of the Gene<g ref="char:EOLhyphen"/>rals; at ſight whereof they fled into the Hundred, lea<g ref="char:EOLhyphen"/>ving the proviſion behind them, which was convoyed into the Leaguer, and the aforeſaid party are advanced into the Hundred to engage them, if poſſible. This day the Suffolk Forces had another ſight with the enemy, killed two and took ten priſoners.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Leaguer,</hi> 
+                  <date>28. <hi>Iune,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="order">
+            <p>On Tueſday June 27, a paper was read in the Houſe, ſubſcribed by divers Citizens and ſent to Dr. <hi>Burgeſse,</hi> deſiring him to give God thanks (in his Pulpit) for pre<g ref="char:EOLhyphen"/>ſerving his Majeſty from poyſoning, and to pray for the forces under the command of the Earl of <hi>Norwich,</hi> and Sir <hi>Marmaduke Langdale,</hi> and after ſome debate thereupon, it was ordred that the parties whoſe names were ſubſcribed ſhould be ſent for.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
